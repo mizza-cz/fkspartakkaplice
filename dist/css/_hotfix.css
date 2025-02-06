@@ -1,0 +1,17 @@
+.s-a-typography p:nth-of-type(3) {
+   text-indent: 2rem;
+}
+.modal-content{
+   top: 28px;
+ position: absolute;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  z-index: 999;
+ }
+
+.typography .subpage-match .ZIM {
+   color: #d71920;
+}
