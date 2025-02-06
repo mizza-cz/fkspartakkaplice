@@ -22,7 +22,7 @@ gulpfile.js
 
 # Maven
 target/
-dist/
+ 
 
 # JetBrains IDE
 .idea/
