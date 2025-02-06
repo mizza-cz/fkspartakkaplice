@@ -2499,7 +2499,7 @@ input:not(.btn) {
     background: #00adef;
 }
 @media (max-width: 1199px) {
-    header .navbar .navbar-nav .nav-item {
+    .colorClub header .navbar .navbar-nav .nav-item {
         background: #00adef;
     }
 }
