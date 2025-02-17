@@ -2389,7 +2389,7 @@ input:not(.btn) {
 .roster-player .image-wrapper .roster-number .number {
     width: 48px;
     height: 48px;
-    background-image: linear-gradient(to bottom, #d71920, #a91419);
+    background: black;
 }
 .roster-player:hover h3 {
     text-decoration: underline;
@@ -2501,5 +2501,15 @@ input:not(.btn) {
 @media (max-width: 1199px) {
     .colorClub header .navbar .navbar-nav .nav-item {
         background: #00adef;
+    }
+}
+.pt-72 {
+    padding-top: 72px;
+}
+
+main {
+    margin-top: 72px;
+    @media (max-width: 767px) {
+        margin-top: 70px;
     }
 }
