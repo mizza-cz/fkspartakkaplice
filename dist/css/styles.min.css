@@ -1627,7 +1627,7 @@ header
     position: absolute;
     width: 6px;
     height: 8px;
-    background-image: url("../../assets/images/separator-wh.svg");
+    background-image: url("../images/separator-wh.svg");
     background-repeat: no-repeat;
     background-size: contain;
     bottom: 16px;
@@ -1766,7 +1766,7 @@ header
         position: absolute;
         width: 6px;
         height: 8px;
-        background-image: url("../../assets/images/separator.svg");
+        background-image: url("../images/separator.svg");
         background-repeat: no-repeat;
         background-size: contain;
         top: 30px;
@@ -1960,7 +1960,7 @@ footer .footer-nav li a::before {
     position: absolute;
     width: 6px;
     height: 8px;
-    background-image: url("../../assets/images/separator.svg");
+    background-image: url("../images/separator.svg");
     background-repeat: no-repeat;
     background-size: contain;
     top: 3px;
@@ -2338,7 +2338,7 @@ input:not(.btn) {
     left: 0;
     width: 6px;
     height: 8px;
-    background-image: url("../../assets/images/separator.svg");
+    background-image: url("../images/separator.svg");
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -2403,7 +2403,7 @@ input:not(.btn) {
     position: absolute;
     width: 6px;
     height: 8px;
-    background-image: url("../../assets/images/separator.svg");
+    background-image: url("../images/separator.svg");
     background-repeat: no-repeat;
     background-size: contain;
     top: 17px;
