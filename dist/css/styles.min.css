@@ -2434,7 +2434,7 @@ input:not(.btn) {
     transform: scale(1.05);
 }
 .subpage-player-image {
-    background-image: url("../../assets/images/player_bg.jpg");
+    background-image: url("../images/player_bg.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
